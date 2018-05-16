@@ -515,6 +515,10 @@ About
 #about-text p {
 	line-height: 23px;
 }
+#about-text ul{
+	list-style-type: circle;
+	padding-left: 18px;
+}
 .about-content ul li {
 	margin-top: 8px;
 	font-size: 14px;
